@@ -1,0 +1,96 @@
+0 waiting for barber w= 1 
+2 waiting for barber w= 2
+1 waiting for barber w= 3
+3 waiting for barber w= 4
+taking customer w=3
+cutting hair w=3
+taking customer w=2
+cutting hair w=2
+2 getting hair cut w=2
+taking customer w=1
+cutting hair w=1
+taking customer w=0
+cutting hair w=0
+1 getting hair cut w=0
+3 getting hair cut w=0
+0 getting hair cut w=1
+4 waiting for barber w= 1
+7 waiting for barber w= 2
+5 waiting for barber w= 3
+8 waiting for barber w= 4
+10 waiting for barber w= 5
+11 waiting for barber w= 6
+12 waiting for barber w= 7
+13 waiting for barber w= 8
+taking customer w=7
+cutting hair w=7
+4 getting hair cut w=7
+taking customer w=6
+cutting hair w=6
+18 waiting for barber w= 7
+5 getting hair cut w=7
+14 waiting for barber w= 8
+15 waiting for barber w= 9
+16 waiting for barber w= 10
+leave the shop
+leave the shop
+leave the shop
+leave the shop
+leave the shop
+leave the shop
+taking customer w=9
+cutting hair w=9
+7 getting hair cut w=9
+taking customer w=8
+cutting hair w=8
+27 waiting for barber w= 9
+8 getting hair cut w=9
+28 waiting for barber w= 10
+leave the shop
+leave the shop
+leave the shop
+taking customer w=9
+cutting hair w=9
+10 getting hair cut w=9
+taking customer w=8
+cutting hair w=8
+11 getting hair cut w=8
+taking customer w=7
+cutting hair w=7
+taking customer w=6
+cutting hair w=6
+12 getting hair cut w=6
+taking customer w=5
+cutting hair w=5
+13 getting hair cut w=6
+taking customer w=4
+cutting hair w=4
+18 getting hair cut w=4
+14 getting hair cut w=3
+taking customer w=3
+cutting hair w=3
+15 getting hair cut w=3
+taking customer w=2
+cutting hair w=2
+16 getting hair cut w=2
+taking customer w=1
+cutting hair w=1
+27 getting hair cut w=1
+taking customer w=0
+cutting hair w=0
+28 getting hair cut w=0
+23 waiting for barber w= 1
+19 waiting for barber w= 2
+29 waiting for barber w= 3
+taking customer w=2
+cutting hair w=2
+taking customer w=1
+cutting hair w=1
+23 getting hair cut w=1
+19 getting hair cut w=0
+taking customer w=0
+cutting hair w=0
+end
+29 getting hair cut w=0
+customer joined
+barber joined
