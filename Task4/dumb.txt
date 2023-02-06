@@ -1,96 +1,88 @@
-0 waiting for barber w= 1 
-2 waiting for barber w= 2
-1 waiting for barber w= 3
-3 waiting for barber w= 4
-taking customer w=3
-cutting hair w=3
-taking customer w=2
-cutting hair w=2
-2 getting hair cut w=2
-taking customer w=1
-cutting hair w=1
-taking customer w=0
-cutting hair w=0
-1 getting hair cut w=0
-3 getting hair cut w=0
-0 getting hair cut w=1
-4 waiting for barber w= 1
-7 waiting for barber w= 2
-5 waiting for barber w= 3
-8 waiting for barber w= 4
-10 waiting for barber w= 5
-11 waiting for barber w= 6
-12 waiting for barber w= 7
-13 waiting for barber w= 8
-taking customer w=7
-cutting hair w=7
-4 getting hair cut w=7
-taking customer w=6
-cutting hair w=6
-18 waiting for barber w= 7
-5 getting hair cut w=7
-14 waiting for barber w= 8
-15 waiting for barber w= 9
-16 waiting for barber w= 10
-leave the shop
-leave the shop
-leave the shop
-leave the shop
-leave the shop
-leave the shop
-taking customer w=9
-cutting hair w=9
-7 getting hair cut w=9
-taking customer w=8
-cutting hair w=8
-27 waiting for barber w= 9
-8 getting hair cut w=9
-28 waiting for barber w= 10
-leave the shop
-leave the shop
-leave the shop
-taking customer w=9
-cutting hair w=9
-10 getting hair cut w=9
-taking customer w=8
-cutting hair w=8
-11 getting hair cut w=8
-taking customer w=7
-cutting hair w=7
-taking customer w=6
-cutting hair w=6
-12 getting hair cut w=6
-taking customer w=5
-cutting hair w=5
-13 getting hair cut w=6
-taking customer w=4
-cutting hair w=4
-18 getting hair cut w=4
-14 getting hair cut w=3
-taking customer w=3
-cutting hair w=3
-15 getting hair cut w=3
-taking customer w=2
-cutting hair w=2
-16 getting hair cut w=2
-taking customer w=1
-cutting hair w=1
-27 getting hair cut w=1
-taking customer w=0
-cutting hair w=0
-28 getting hair cut w=0
-23 waiting for barber w= 1
-19 waiting for barber w= 2
-29 waiting for barber w= 3
-taking customer w=2
-cutting hair w=2
-taking customer w=1
-cutting hair w=1
-23 getting hair cut w=1
-19 getting hair cut w=0
-taking customer w=0
-cutting hair w=0
+0 waiting for barber  
+1 waiting for barber
+Barber taking customer
+Barber cutting hair
+1 got his hair cut and paid for it
+5 waiting for barber
+4 waiting for barber
+Barber taking customer
+Barber cutting hair
+Barber taking customer
+Barber cutting hair
+0 got his hair cut and paid for it
+5 got his hair cut and paid for it
+Barber taking customer
+Barber cutting hair
+4 got his hair cut and paid for it
+6 waiting for barber
+7 waiting for barber
+2 waiting for barber
+3 waiting for barber
+Barber taking customer
+Barber cutting hair
+Barber taking customer
+Barber cutting hair
+6 got his hair cut and paid for it
+7 got his hair cut and paid for it
+Barber taking customer 
+Barber cutting hair
+2 got his hair cut and paid for it
+Barber taking customer
+Barber cutting hair
+3 got his hair cut and paid for it
+11 waiting for barber
+16 waiting for barber
+Barber taking customer
+Barber cutting hair
+19 waiting for barber
+19 got his hair cut and paid for it
+Barber taking customer
+Barber cutting hair
+16 got his hair cut and paid for it
+21 waiting for barber
+23 waiting for barber
+24 waiting for barber
+15 waiting for barber
+9 is leaving the shop 5
+17 is leaving the shop 5
+10 is leaving the shop 5
+8 is leaving the shop 5
+20 is leaving the shop 5
+Barber taking customer
+Barber cutting hair
+11 got his hair cut and paid for it
+Barber taking customer
+Barber cutting hair
+21 got his hair cut and paid for it
+Barber taking customer
+Barber cutting hair
+23 got his hair cut and paid for it
+Barber taking customer
+Barber cutting hair
+24 got his hair cut and paid for it
+Barber taking customer
+Barber cutting hair
+18 waiting for barber
+15 got his hair cut and paid for it
+12 waiting for barber
+Barber taking customer
+Barber cutting hair
+18 got his hair cut and paid for it
+Barber taking customer
+Barber cutting hair
+12 got his hair cut and paid for it
+14 waiting for barber
+22 waiting for barber
+Barber taking customer
+Barber cutting hair
+14 got his hair cut and paid for it
+Barber taking customer
+Barber cutting hair
+22 got his hair cut and paid for it
+13 waiting for barber
+Barber taking customer
+Barber cutting hair
 end
-29 getting hair cut w=0
+13 got his hair cut and paid for it
 customer joined
 barber joined

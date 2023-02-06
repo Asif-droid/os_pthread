@@ -27,8 +27,8 @@ void *barber_fun(void *arg) {
         zem_down(&customer_z);
         pthread_mutex_lock(&wait_mutex);
         waiting--;
-        printf("taking customer w=%d\n",waiting);
-        printf("cutting hair w=%d\n",waiting);
+        printf("Barber taking customer \n");
+        printf("Barber cutting hair \n");
         zem_up(&barber_z);
         pthread_mutex_unlock(&wait_mutex);
         if(customer_to_see<=0 && waiting==0){
@@ -44,18 +44,18 @@ void *customer_fun(void *arg) {
     int id = *((int *)arg);
     pthread_mutex_lock(&wait_mutex);
     if(waiting==NUM_CHAIRS){
-        printf("leave the shop\n");
+        printf("%d is leaving the shop %d \n",id,waiting);
         customer_to_see--;
         pthread_mutex_unlock(&wait_mutex);
     }
     else{
         waiting++;
         customer_to_see--;
-        printf("%d waiting for barber w= %d \n",id,waiting);
+        printf("%d waiting for barber  \n",id);
         pthread_mutex_unlock(&wait_mutex);
         zem_up(&customer_z);
         zem_down(&barber_z);
-        printf("%d getting hair cut w=%d\n",id,waiting);
+        printf("%d got his hair cut and paid for it \n",id);
     }
     return 0;
 
